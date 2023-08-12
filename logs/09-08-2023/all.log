@@ -1,0 +1,132 @@
+[DEBUG][Komodo\Store][Store.php][00:43:57]:: Starting store | "sessions.json"
+[DEBUG][Komodo\Store][Store.php][00:43:57]:: Reading from file | "sessions.json"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:43:57]::  | "Starting session"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:43:57]::  | "Loading data from cookie"
+[DEBUG][Komodo\Router][Router.php][00:43:57]:: Inicializando rotas | {"route":"\/teste","founded":null,"method":"GET"}
+[DEBUG][Komodo\Router][Router.php][00:43:57]::  | "Rota n\u00e3o encontrada"
+[DEBUG][Komodo\Store][Store.php][00:44:05]:: Starting store | "sessions.json"
+[DEBUG][Komodo\Store][Store.php][00:44:05]:: Reading from file | "sessions.json"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:44:05]::  | "Starting session"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:44:05]::  | "Loading data from cookie"
+[DEBUG][Komodo\Router][Router.php][00:44:05]:: Inicializando rotas | {"route":"\/","founded":{},"method":"GET"}
+[DEBUG][Komodo\Router][Router.php][00:44:05]:: Criando requeste | []
+[DEBUG][Komodo\Store][Store.php][00:44:17]:: Starting store | "sessions.json"
+[DEBUG][Komodo\Store][Store.php][00:44:17]:: Reading from file | "sessions.json"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:44:17]::  | "Starting session"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:44:17]::  | "Loading data from cookie"
+[DEBUG][Komodo\Router][Router.php][00:44:17]:: Inicializando rotas | {"route":"\/","founded":{},"method":"GET"}
+[DEBUG][Komodo\Router][Router.php][00:44:17]:: Criando requeste | []
+[DEBUG][Komodo\Store][Store.php][00:44:20]:: Starting store | "sessions.json"
+[DEBUG][Komodo\Store][Store.php][00:44:20]:: Reading from file | "sessions.json"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:44:20]::  | "Starting session"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:44:20]::  | "Loading data from cookie"
+[DEBUG][Komodo\Router][Router.php][00:44:20]:: Inicializando rotas | {"route":"\/principal","founded":null,"method":"GET"}
+[DEBUG][Komodo\Router][Router.php][00:44:20]::  | "Rota n\u00e3o encontrada"
+[DEBUG][Komodo\Store][Store.php][00:44:24]:: Starting store | "sessions.json"
+[DEBUG][Komodo\Store][Store.php][00:44:24]:: Reading from file | "sessions.json"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:44:24]::  | "Starting session"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:44:24]::  | "Loading data from cookie"
+[DEBUG][Komodo\Router][Router.php][00:44:24]:: Inicializando rotas | {"route":"\/","founded":{},"method":"GET"}
+[DEBUG][Komodo\Router][Router.php][00:44:24]:: Criando requeste | []
+[DEBUG][Komodo\Store][Store.php][00:45:34]:: Starting store | "sessions.json"
+[DEBUG][Komodo\Store][Store.php][00:45:34]:: Reading from file | "sessions.json"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:45:34]::  | "Starting session"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:45:34]::  | "Loading data from cookie"
+[DEBUG][Komodo\Router][Router.php][00:45:34]:: Inicializando rotas | {"route":"\/","founded":{},"method":"GET"}
+[DEBUG][Komodo\Router][Router.php][00:45:34]:: Criando requeste | []
+[DEBUG][Komodo\Store][Store.php][00:45:38]:: Starting store | "sessions.json"
+[DEBUG][Komodo\Store][Store.php][00:45:38]:: Reading from file | "sessions.json"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:45:38]::  | "Starting session"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:45:38]::  | "Loading data from cookie"
+[DEBUG][Komodo\Router][Router.php][00:45:38]:: Inicializando rotas | {"route":"\/","founded":{},"method":"GET"}
+[DEBUG][Komodo\Router][Router.php][00:45:38]:: Criando requeste | []
+[DEBUG][Komodo\Store][Store.php][00:46:11]:: Starting store | "sessions.json"
+[DEBUG][Komodo\Store][Store.php][00:46:11]:: Reading from file | "sessions.json"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:46:11]::  | "Starting session"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:46:11]::  | "Loading data from cookie"
+[DEBUG][Komodo\Router][Router.php][00:46:11]:: Inicializando rotas | {"route":"\/","founded":{},"method":"GET"}
+[DEBUG][Komodo\Router][Router.php][00:46:11]:: Criando requeste | []
+[DEBUG][Komodo\Store][Store.php][00:48:16]:: Starting store | "sessions.json"
+[DEBUG][Komodo\Store][Store.php][00:48:16]:: Reading from file | "sessions.json"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:48:16]::  | "Starting session"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:48:16]::  | "Loading data from cookie"
+[DEBUG][Komodo\Router][Router.php][00:48:16]:: Inicializando rotas | {"route":"\/","founded":{},"method":"GET"}
+[DEBUG][Komodo\Router][Router.php][00:48:16]:: Criando requeste | []
+[DEBUG][Komodo\Store][Store.php][00:48:21]:: Starting store | "sessions.json"
+[DEBUG][Komodo\Store][Store.php][00:48:21]:: Reading from file | "sessions.json"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:48:21]::  | "Starting session"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:48:21]::  | "Loading data from cookie"
+[DEBUG][Komodo\Router][Router.php][00:48:21]:: Inicializando rotas | {"route":"\/secundario","founded":null,"method":"GET"}
+[DEBUG][Komodo\Router][Router.php][00:48:21]::  | "Rota n\u00e3o encontrada"
+[DEBUG][Komodo\Store][Store.php][00:49:09]:: Starting store | "sessions.json"
+[DEBUG][Komodo\Store][Store.php][00:49:09]:: Reading from file | "sessions.json"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:49:09]::  | "Starting session"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:49:09]::  | "Loading data from cookie"
+[DEBUG][Komodo\Router][Router.php][00:49:09]:: Inicializando rotas | {"route":"\/","founded":{},"method":"GET"}
+[DEBUG][Komodo\Router][Router.php][00:49:09]:: Criando requeste | []
+[DEBUG][Komodo\Store][Store.php][00:49:22]:: Starting store | "sessions.json"
+[DEBUG][Komodo\Store][Store.php][00:49:22]:: Reading from file | "sessions.json"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:49:22]::  | "Starting session"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:49:22]::  | "Loading data from cookie"
+[DEBUG][Komodo\Router][Router.php][00:49:22]:: Inicializando rotas | {"route":"\/","founded":{},"method":"GET"}
+[DEBUG][Komodo\Router][Router.php][00:49:22]:: Criando requeste | []
+[DEBUG][Komodo\Store][Store.php][00:49:30]:: Starting store | "sessions.json"
+[DEBUG][Komodo\Store][Store.php][00:49:30]:: Reading from file | "sessions.json"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:49:30]::  | "Starting session"
+[DEBUG][Komodo\Exodus\Session][Session.php][00:49:30]::  | "Loading data from cookie"
+[DEBUG][Komodo\Router][Router.php][00:49:30]:: Inicializando rotas | {"route":"\/","founded":{},"method":"GET"}
+[DEBUG][Komodo\Router][Router.php][00:49:30]:: Criando requeste | []
+[DEBUG][Komodo\Store][Store.php][01:39:55]:: Starting store | "sessions.json"
+[DEBUG][Komodo\Store][Store.php][01:39:55]:: Reading from file | "sessions.json"
+[DEBUG][Komodo\Exodus\Session][Session.php][01:39:55]::  | "Starting session"
+[DEBUG][Komodo\Exodus\Session][Session.php][01:39:55]::  | "Loading data from cookie"
+[DEBUG][Komodo\Router][Router.php][01:39:55]:: Inicializando rotas | {"route":"\/","founded":{},"method":"GET"}
+[DEBUG][Komodo\Router][Router.php][01:39:55]:: Criando requeste | []
+[DEBUG][Komodo\Store][Store.php][01:43:35]:: Starting store | "sessions.json"
+[DEBUG][Komodo\Store][Store.php][01:43:35]:: Reading from file | "sessions.json"
+[DEBUG][Komodo\Exodus\Session][Session.php][01:43:35]::  | "Starting session"
+[DEBUG][Komodo\Exodus\Session][Session.php][01:43:35]::  | "Loading data from cookie"
+[DEBUG][Komodo\Router][Router.php][01:43:35]:: Inicializando rotas | {"route":"\/","founded":{},"method":"GET"}
+[DEBUG][Komodo\Router][Router.php][01:43:35]:: Criando requeste | []
+[DEBUG][Komodo\Store][Store.php][01:43:52]:: Starting store | "sessions.json"
+[DEBUG][Komodo\Store][Store.php][01:43:52]:: Reading from file | "sessions.json"
+[DEBUG][Komodo\Exodus\Session][Session.php][01:43:52]::  | "Starting session"
+[DEBUG][Komodo\Exodus\Session][Session.php][01:43:52]::  | "Loading data from cookie"
+[DEBUG][Komodo\Router][Router.php][01:43:52]:: Inicializando rotas | {"route":"\/","founded":{},"method":"GET"}
+[DEBUG][Komodo\Router][Router.php][01:43:52]:: Criando requeste | []
+[DEBUG][Komodo\Store][Store.php][01:43:54]:: Starting store | "sessions.json"
+[DEBUG][Komodo\Store][Store.php][01:43:54]:: Starting store | "sessions.json"
+[DEBUG][Komodo\Store][Store.php][01:43:54]:: Reading from file | "sessions.json"
+[DEBUG][Komodo\Store][Store.php][01:43:54]:: Reading from file | "sessions.json"
+[DEBUG][Komodo\Exodus\Session][Session.php][01:43:54]::  | "Starting session"
+[DEBUG][Komodo\Exodus\Session][Session.php][01:43:54]::  | "Starting session"
+[DEBUG][Komodo\Exodus\Session][Session.php][01:43:54]::  | "Loading data from cookie"
+[DEBUG][Komodo\Exodus\Session][Session.php][01:43:54]::  | "Loading data from cookie"
+[DEBUG][Komodo\Router][Router.php][01:43:54]:: Inicializando rotas | {"route":"\/assets\/js\/theme\/plugins\/perfect-scrollbar.min.js.map","founded":null,"method":"GET"}
+[DEBUG][Komodo\Router][Router.php][01:43:54]:: Inicializando rotas | {"route":"\/assets\/js\/theme\/_site_dashboard_pro\/assets\/js\/dashboard-pro.js.map","founded":null,"method":"GET"}
+[DEBUG][Komodo\Router][Router.php][01:43:54]::  | "Rota n\u00e3o encontrada"
+[DEBUG][Komodo\Router][Router.php][01:43:54]::  | "Rota n\u00e3o encontrada"
+[DEBUG][Komodo\Store][Store.php][01:52:58]:: Starting store | "sessions.json"
+[DEBUG][Komodo\Store][Store.php][01:52:58]:: Reading from file | "sessions.json"
+[DEBUG][Komodo\Exodus\Session][Session.php][01:52:58]::  | "Starting session"
+[DEBUG][Komodo\Exodus\Session][Session.php][01:52:58]::  | "Loading data from cookie"
+[DEBUG][Komodo\Router][Router.php][01:52:58]:: Inicializando rotas | {"route":"\/secundario","founded":null,"method":"GET"}
+[DEBUG][Komodo\Router][Router.php][01:52:58]::  | "Rota n\u00e3o encontrada"
+[DEBUG][Komodo\Store][Store.php][01:53:15]:: Starting store | "sessions.json"
+[DEBUG][Komodo\Store][Store.php][01:53:15]:: Reading from file | "sessions.json"
+[DEBUG][Komodo\Exodus\Session][Session.php][01:53:15]::  | "Starting session"
+[DEBUG][Komodo\Exodus\Session][Session.php][01:53:15]::  | "Loading data from cookie"
+[DEBUG][Komodo\Router][Router.php][01:53:15]:: Inicializando rotas | {"route":"\/secundario","founded":null,"method":"GET"}
+[DEBUG][Komodo\Router][Router.php][01:53:15]::  | "Rota n\u00e3o encontrada"
+[DEBUG][Komodo\Store][Store.php][01:53:45]:: Starting store | "sessions.json"
+[DEBUG][Komodo\Store][Store.php][01:53:45]:: Reading from file | "sessions.json"
+[DEBUG][Komodo\Exodus\Session][Session.php][01:53:45]::  | "Starting session"
+[DEBUG][Komodo\Exodus\Session][Session.php][01:53:45]::  | "Loading data from cookie"
+[DEBUG][Komodo\Router][Router.php][01:53:45]:: Inicializando rotas | {"route":"\/principalss","founded":null,"method":"GET"}
+[DEBUG][Komodo\Router][Router.php][01:53:45]::  | "Rota n\u00e3o encontrada"
+[DEBUG][Komodo\Store][Store.php][14:44:35]:: Starting store | "sessions.json"
+[DEBUG][Komodo\Store][Store.php][14:44:35]:: Reading from file | "sessions.json"
+[DEBUG][Komodo\Exodus\Session][Session.php][14:44:35]::  | "Starting session"
+[DEBUG][Komodo\Exodus\Session][Session.php][14:44:35]::  | "Loading data from cookie"
+[DEBUG][Komodo\Router][Router.php][14:44:35]:: Inicializando rotas | {"route":"\/","founded":{},"method":"GET"}
+[DEBUG][Komodo\Router][Router.php][14:44:35]:: Criando requeste | []

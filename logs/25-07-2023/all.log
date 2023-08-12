@@ -1,0 +1,368 @@
+[DEBUG][Komodo\Store][Store.php][03:06:22]:: Starting store | sessions.json
+[DEBUG][Komodo\Store][Store.php][03:06:22]:: Reading from file | sessions.json
+[DEBUG][Komodo\Exodus\Session][Session.php][03:06:22]::  | Starting session
+[DEBUG][Komodo\Exodus\Session][Session.php][03:06:22]::  | Loading data from cookie
+[DEBUG][Komodo\Store][Store.php][03:06:22]:: Starting store | sessions.json
+[DEBUG][Komodo\Store][Store.php][03:06:22]:: Reading from file | sessions.json
+[DEBUG][Komodo\Exodus\Session][Session.php][03:06:22]::  | Starting session
+[DEBUG][Komodo\Exodus\Session][Session.php][03:06:22]::  | Loading data from cookie
+[DEBUG][Komodo\Store][Store.php][03:08:23]:: Starting store | sessions.json
+[DEBUG][Komodo\Store][Store.php][03:08:23]:: Reading from file | sessions.json
+[DEBUG][Komodo\Exodus\Session][Session.php][03:08:23]::  | Starting session
+[DEBUG][Komodo\Exodus\Session][Session.php][03:08:23]::  | Loading data from cookie
+[DEBUG][Komodo\Store][Store.php][03:08:23]:: Starting store | sessions.json
+[DEBUG][Komodo\Store][Store.php][03:08:23]:: Reading from file | sessions.json
+[DEBUG][Komodo\Exodus\Session][Session.php][03:08:23]::  | Starting session
+[DEBUG][Komodo\Exodus\Session][Session.php][03:08:23]::  | Loading data from cookie
+[DEBUG][Komodo\Store][Store.php][03:09:46]:: Starting store | sessions.json
+[DEBUG][Komodo\Store][Store.php][03:09:46]:: Reading from file | sessions.json
+[DEBUG][Komodo\Exodus\Session][Session.php][03:09:46]::  | Starting session
+[DEBUG][Komodo\Exodus\Session][Session.php][03:09:46]::  | Loading data from cookie
+[DEBUG][Komodo\Router][Router.php][03:09:46]:: Inicializando rotas | Array
+(
+    [route] => /
+    [founded] => Komodo\Routes\Route Object
+        (
+            [path] => 
+            [callback] => Komodo\Exodus\Example\Controllers\LoginController
+            [middlewares] => 
+            [method] => Komodo\Routes\Enums\HTTPMethods Enum:string
+                (
+                    [name] => get
+                    [value] => GET
+                )
+
+            [children] => 
+            [storage:ArrayObject:private] => Array
+                (
+                )
+
+        )
+
+    [method] => GET
+)
+
+[DEBUG][Komodo\Router][Router.php][03:09:46]:: Criando requeste | Array
+(
+)
+
+[DEBUG][Komodo\Store][Store.php][03:09:46]:: Starting store | sessions.json
+[DEBUG][Komodo\Store][Store.php][03:09:46]:: Reading from file | sessions.json
+[DEBUG][Komodo\Exodus\Session][Session.php][03:09:46]::  | Starting session
+[DEBUG][Komodo\Exodus\Session][Session.php][03:09:46]::  | Loading data from cookie
+[DEBUG][Komodo\Router][Router.php][03:09:46]:: Inicializando rotas | Array
+(
+    [route] => /favicon.ico
+    [founded] => 
+    [method] => GET
+)
+
+[DEBUG][Komodo\Router][Router.php][03:09:46]::  | Rota não encontrada
+[DEBUG][Komodo\Store][Store.php][03:10:13]:: Starting store | sessions.json
+[DEBUG][Komodo\Store][Store.php][03:10:13]:: Reading from file | sessions.json
+[DEBUG][Komodo\Exodus\Session][Session.php][03:10:13]::  | Starting session
+[DEBUG][Komodo\Exodus\Session][Session.php][03:10:13]::  | Loading data from cookie
+[DEBUG][Komodo\Router][Router.php][03:10:13]:: Inicializando rotas | Array
+(
+    [route] => /
+    [founded] => Komodo\Routes\Route Object
+        (
+            [path] => 
+            [callback] => Komodo\Exodus\Example\Controllers\LoginController
+            [middlewares] => 
+            [method] => Komodo\Routes\Enums\HTTPMethods Enum:string
+                (
+                    [name] => get
+                    [value] => GET
+                )
+
+            [children] => 
+            [storage:ArrayObject:private] => Array
+                (
+                )
+
+        )
+
+    [method] => GET
+)
+
+[DEBUG][Komodo\Router][Router.php][03:10:13]:: Criando requeste | Array
+(
+)
+
+[DEBUG][Komodo\Store][Store.php][03:10:13]:: Starting store | sessions.json
+[DEBUG][Komodo\Store][Store.php][03:10:13]:: Reading from file | sessions.json
+[DEBUG][Komodo\Exodus\Session][Session.php][03:10:13]::  | Starting session
+[DEBUG][Komodo\Exodus\Session][Session.php][03:10:13]::  | Loading data from cookie
+[DEBUG][Komodo\Router][Router.php][03:10:13]:: Inicializando rotas | Array
+(
+    [route] => /assets/img/sidebar-1.jpg
+    [founded] => 
+    [method] => GET
+)
+
+[DEBUG][Komodo\Router][Router.php][03:10:13]::  | Rota não encontrada
+[DEBUG][Komodo\Store][Store.php][03:11:11]:: Starting store | sessions.json
+[DEBUG][Komodo\Store][Store.php][03:11:11]:: Reading from file | sessions.json
+[DEBUG][Komodo\Exodus\Session][Session.php][03:11:11]::  | Starting session
+[DEBUG][Komodo\Exodus\Session][Session.php][03:11:11]::  | Loading data from cookie
+[DEBUG][Komodo\Router][Router.php][03:11:11]:: Inicializando rotas | Array
+(
+    [route] => /
+    [founded] => Komodo\Routes\Route Object
+        (
+            [path] => 
+            [callback] => Komodo\Exodus\Example\Controllers\LoginController
+            [middlewares] => 
+            [method] => Komodo\Routes\Enums\HTTPMethods Enum:string
+                (
+                    [name] => get
+                    [value] => GET
+                )
+
+            [children] => 
+            [storage:ArrayObject:private] => Array
+                (
+                )
+
+        )
+
+    [method] => GET
+)
+
+[DEBUG][Komodo\Router][Router.php][03:11:11]:: Criando requeste | Array
+(
+)
+
+[DEBUG][Komodo\Store][Store.php][03:11:11]:: Starting store | sessions.json
+[DEBUG][Komodo\Store][Store.php][03:11:11]:: Reading from file | sessions.json
+[DEBUG][Komodo\Exodus\Session][Session.php][03:11:11]::  | Starting session
+[DEBUG][Komodo\Exodus\Session][Session.php][03:11:11]::  | Loading data from cookie
+[DEBUG][Komodo\Router][Router.php][03:11:11]:: Inicializando rotas | Array
+(
+    [route] => /assets/img/sidebar-1.jpg
+    [founded] => 
+    [method] => GET
+)
+
+[DEBUG][Komodo\Router][Router.php][03:11:11]::  | Rota não encontrada
+[DEBUG][Komodo\Store][Store.php][03:11:20]:: Starting store | sessions.json
+[DEBUG][Komodo\Store][Store.php][03:11:20]:: Reading from file | sessions.json
+[DEBUG][Komodo\Exodus\Session][Session.php][03:11:20]::  | Starting session
+[DEBUG][Komodo\Exodus\Session][Session.php][03:11:20]::  | Loading data from cookie
+[DEBUG][Komodo\Router][Router.php][03:11:20]:: Inicializando rotas | Array
+(
+    [route] => /
+    [founded] => Komodo\Routes\Route Object
+        (
+            [path] => 
+            [callback] => Komodo\Exodus\Example\Controllers\LoginController
+            [middlewares] => 
+            [method] => Komodo\Routes\Enums\HTTPMethods Enum:string
+                (
+                    [name] => get
+                    [value] => GET
+                )
+
+            [children] => 
+            [storage:ArrayObject:private] => Array
+                (
+                )
+
+        )
+
+    [method] => GET
+)
+
+[DEBUG][Komodo\Router][Router.php][03:11:20]:: Criando requeste | Array
+(
+)
+
+[DEBUG][Komodo\Store][Store.php][03:11:20]:: Starting store | sessions.json
+[DEBUG][Komodo\Store][Store.php][03:11:20]:: Reading from file | sessions.json
+[DEBUG][Komodo\Exodus\Session][Session.php][03:11:20]::  | Starting session
+[DEBUG][Komodo\Exodus\Session][Session.php][03:11:20]::  | Loading data from cookie
+[DEBUG][Komodo\Router][Router.php][03:11:20]:: Inicializando rotas | Array
+(
+    [route] => /assets/img/sidebar-1.jpg
+    [founded] => 
+    [method] => GET
+)
+
+[DEBUG][Komodo\Router][Router.php][03:11:20]::  | Rota não encontrada
+[DEBUG][Komodo\Store][Store.php][03:11:27]:: Starting store | sessions.json
+[DEBUG][Komodo\Store][Store.php][03:11:27]:: Reading from file | sessions.json
+[DEBUG][Komodo\Exodus\Session][Session.php][03:11:27]::  | Starting session
+[DEBUG][Komodo\Exodus\Session][Session.php][03:11:27]::  | Loading data from cookie
+[DEBUG][Komodo\Router][Router.php][03:11:27]:: Inicializando rotas | Array
+(
+    [route] => /
+    [founded] => Komodo\Routes\Route Object
+        (
+            [path] => 
+            [callback] => Komodo\Exodus\Example\Controllers\LoginController
+            [middlewares] => 
+            [method] => Komodo\Routes\Enums\HTTPMethods Enum:string
+                (
+                    [name] => get
+                    [value] => GET
+                )
+
+            [children] => 
+            [storage:ArrayObject:private] => Array
+                (
+                )
+
+        )
+
+    [method] => GET
+)
+
+[DEBUG][Komodo\Router][Router.php][03:11:27]:: Criando requeste | Array
+(
+)
+
+[DEBUG][Komodo\Store][Store.php][03:11:27]:: Starting store | sessions.json
+[DEBUG][Komodo\Store][Store.php][03:11:27]:: Reading from file | sessions.json
+[DEBUG][Komodo\Exodus\Session][Session.php][03:11:27]::  | Starting session
+[DEBUG][Komodo\Exodus\Session][Session.php][03:11:27]::  | Loading data from cookie
+[DEBUG][Komodo\Router][Router.php][03:11:27]:: Inicializando rotas | Array
+(
+    [route] => /assets/img/sidebar-1.jpg
+    [founded] => 
+    [method] => GET
+)
+
+[DEBUG][Komodo\Router][Router.php][03:11:27]::  | Rota não encontrada
+[DEBUG][Komodo\Store][Store.php][03:20:32]:: Starting store | sessions.json
+[DEBUG][Komodo\Store][Store.php][03:20:32]:: Reading from file | sessions.json
+[DEBUG][Komodo\Exodus\Session][Session.php][03:20:32]::  | Starting session
+[DEBUG][Komodo\Exodus\Session][Session.php][03:20:32]::  | Loading data from cookie
+[DEBUG][Komodo\Router][Router.php][03:20:32]:: Inicializando rotas | Array
+(
+    [route] => /
+    [founded] => Komodo\Routes\Route Object
+        (
+            [path] => 
+            [callback] => Komodo\Exodus\Example\Controllers\LoginController
+            [middlewares] => 
+            [method] => Komodo\Routes\Enums\HTTPMethods Enum:string
+                (
+                    [name] => get
+                    [value] => GET
+                )
+
+            [children] => 
+            [storage:ArrayObject:private] => Array
+                (
+                )
+
+        )
+
+    [method] => GET
+)
+
+[DEBUG][Komodo\Router][Router.php][03:20:32]:: Criando requeste | Array
+(
+)
+
+[DEBUG][Komodo\Store][Store.php][03:20:32]:: Starting store | sessions.json
+[DEBUG][Komodo\Store][Store.php][03:20:32]:: Reading from file | sessions.json
+[DEBUG][Komodo\Exodus\Session][Session.php][03:20:32]::  | Starting session
+[DEBUG][Komodo\Exodus\Session][Session.php][03:20:32]::  | Loading data from cookie
+[DEBUG][Komodo\Router][Router.php][03:20:32]:: Inicializando rotas | Array
+(
+    [route] => /assets/img/sidebar-1.jpg
+    [founded] => 
+    [method] => GET
+)
+
+[DEBUG][Komodo\Router][Router.php][03:20:32]::  | Rota não encontrada
+[DEBUG][Komodo\Store][Store.php][03:20:33]:: Starting store | sessions.json
+[DEBUG][Komodo\Store][Store.php][03:20:33]:: Reading from file | sessions.json
+[DEBUG][Komodo\Exodus\Session][Session.php][03:20:33]::  | Starting session
+[DEBUG][Komodo\Exodus\Session][Session.php][03:20:33]::  | Loading data from cookie
+[DEBUG][Komodo\Router][Router.php][03:20:33]:: Inicializando rotas | Array
+(
+    [route] => /
+    [founded] => Komodo\Routes\Route Object
+        (
+            [path] => 
+            [callback] => Komodo\Exodus\Example\Controllers\LoginController
+            [middlewares] => 
+            [method] => Komodo\Routes\Enums\HTTPMethods Enum:string
+                (
+                    [name] => get
+                    [value] => GET
+                )
+
+            [children] => 
+            [storage:ArrayObject:private] => Array
+                (
+                )
+
+        )
+
+    [method] => GET
+)
+
+[DEBUG][Komodo\Router][Router.php][03:20:33]:: Criando requeste | Array
+(
+)
+
+[DEBUG][Komodo\Store][Store.php][03:20:33]:: Starting store | sessions.json
+[DEBUG][Komodo\Store][Store.php][03:20:33]:: Reading from file | sessions.json
+[DEBUG][Komodo\Exodus\Session][Session.php][03:20:33]::  | Starting session
+[DEBUG][Komodo\Exodus\Session][Session.php][03:20:33]::  | Loading data from cookie
+[DEBUG][Komodo\Router][Router.php][03:20:33]:: Inicializando rotas | Array
+(
+    [route] => /assets/img/sidebar-1.jpg
+    [founded] => 
+    [method] => GET
+)
+
+[DEBUG][Komodo\Router][Router.php][03:20:33]::  | Rota não encontrada
+[DEBUG][Komodo\Store][Store.php][03:20:42]:: Starting store | sessions.json
+[DEBUG][Komodo\Store][Store.php][03:20:42]:: Reading from file | sessions.json
+[DEBUG][Komodo\Exodus\Session][Session.php][03:20:42]::  | Starting session
+[DEBUG][Komodo\Exodus\Session][Session.php][03:20:42]::  | Loading data from cookie
+[DEBUG][Komodo\Router][Router.php][03:20:42]:: Inicializando rotas | Array
+(
+    [route] => /
+    [founded] => Komodo\Routes\Route Object
+        (
+            [path] => 
+            [callback] => Komodo\Exodus\Example\Controllers\LoginController
+            [middlewares] => 
+            [method] => Komodo\Routes\Enums\HTTPMethods Enum:string
+                (
+                    [name] => get
+                    [value] => GET
+                )
+
+            [children] => 
+            [storage:ArrayObject:private] => Array
+                (
+                )
+
+        )
+
+    [method] => GET
+)
+
+[DEBUG][Komodo\Router][Router.php][03:20:42]:: Criando requeste | Array
+(
+)
+
+[DEBUG][Komodo\Store][Store.php][03:20:42]:: Starting store | sessions.json
+[DEBUG][Komodo\Store][Store.php][03:20:42]:: Reading from file | sessions.json
+[DEBUG][Komodo\Exodus\Session][Session.php][03:20:42]::  | Starting session
+[DEBUG][Komodo\Exodus\Session][Session.php][03:20:42]::  | Loading data from cookie
+[DEBUG][Komodo\Router][Router.php][03:20:42]:: Inicializando rotas | Array
+(
+    [route] => /assets/img/sidebar-1.jpg
+    [founded] => 
+    [method] => GET
+)
+
+[DEBUG][Komodo\Router][Router.php][03:20:42]::  | Rota não encontrada
