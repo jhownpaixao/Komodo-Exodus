@@ -50,8 +50,6 @@ abstract class Controller
     public static function create($request, $response)
     {
         $class = get_called_class();
-
-        $ff = Router::$current;
         return new $class($request, $response);
     }
 
@@ -67,12 +65,6 @@ abstract class Controller
     {
         $this->request = $request;
         $this->response = $response;
-    }
-
-    private function load()
-    {
-
-        
     }
 
 }
