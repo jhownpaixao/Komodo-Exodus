@@ -27,6 +27,10 @@
     }
   ],
   "require-dev": {
-    "phpunit/phpunit": "9.6.x-dev"
+    "phpunit/phpunit": "9.6.x-dev",
+    "komodo/logger": "dev-main",
+    "komodo/map": "dev-main",
+    "komodo/store": "dev-main",
+    "komodo/routes": "dev-main"
   }
 }
