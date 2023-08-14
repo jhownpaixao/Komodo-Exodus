@@ -115,7 +115,9 @@ class Router extends NativeRouter
          * @var Controller
          */
         $controller = call_user_func_array([ $route->callback, 'create' ], [ $request, $response ]);
-        call_user_func([ $controller, self::$current ?: 'index' ]);
-    }
 
+        $method = self::$current ?: 'index';
+        $method = method_exists($controller, $method) ? $method : 'index';
+        call_user_func([ $controller, $method ]);
+    }
 }
